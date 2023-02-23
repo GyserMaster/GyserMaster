@@ -1,4 +1,4 @@
-Hola, soy Sergey Petrov, programador junior backend.
+Hola, soy Sergey Petrov, programador FullStack.
 
 Actualmente me estoy especializando en Python, Django, Vue.js y Docker
 
